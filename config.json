@@ -1,0 +1,35 @@
+{
+    "VideoPlayerLocation": "../player",
+    "VideoPlayerExecutable": "mpv.exe",
+    "WindowClassName": "mpv",
+
+    "Windows": [
+        {
+            "Fullscreen": true,
+            "Sound": false,
+            "X": -1820,
+            "Y": 0,
+            "VideoDirectory": "videos",
+            "Width": 0,
+            "Height": 0
+        },
+        {
+            "Fullscreen": true,
+            "Sound": true,
+            "X": 100,
+            "Y": 0,
+            "VideoDirectory": "videos",
+            "Width": 0,
+            "Height": 0
+        },
+        {
+            "Fullscreen": true,
+            "Sound": false,
+            "X": 2020,
+            "Y": 0,
+            "VideoDirectory": "videos",
+            "Width": 0,
+            "Height": 0
+        }
+    ]
+}
