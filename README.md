@@ -14,3 +14,6 @@ edit config.json to your setup
 
 run launcher.exe
 
+
+### how to stop it
+type in the following command in Command Promt `TASKKILL -f -IM mpv.exe` (if you're not using MPV it will look different)
